@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body{
+    background-color: #83E1AD;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c5ebd6;
+
+}
+header{
+    background-color: #83E1AD #3DDCB4 #2fa866 #063d1e;;
+    text-align: center;
+    margin: 0px;
+}
+header > p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+header > h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 10px;
+}
+a:hover{
+    text-decoration: solid;
+    color: #063d1e;
+}
