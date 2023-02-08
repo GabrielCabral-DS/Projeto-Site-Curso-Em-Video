@@ -6,9 +6,10 @@ body{
 
 }
 header{
-    background-color: #c5ebd6 #83E1AD #3ddcb4 #2fa866 #063d1e;
+    background-image: linear-gradient(to bottom,#c5ebd6, #83E1AD, #3ddcb4, #2fa866, #063d1e);
     text-align: center;
     margin: 0px;
+    
 }
 header > p{
     font-family: Arial, Helvetica, sans-serif;
