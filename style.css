@@ -6,7 +6,7 @@ body{
 
 }
 header{
-    background-color: #83E1AD #3DDCB4 #2fa866 #063d1e;;
+    background-color: #c5ebd6 #83E1AD #3ddcb4 #2fa866 #063d1e;
     text-align: center;
     margin: 0px;
 }
@@ -29,4 +29,10 @@ a{
 a:hover{
     text-decoration: solid;
     color: #063d1e;
+}
+article{
+    background-color: white;
+}
+article > p{
+    color: black;
 }
