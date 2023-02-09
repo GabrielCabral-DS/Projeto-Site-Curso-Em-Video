@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    background-color: #c5ebd6;
+}
+nav > a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 10px;
+}
